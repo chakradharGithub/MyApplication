@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Calculator</string>
+    <string name="emptystring"></string>
+    <string name="Add">ADD</string>
+    <string name="Sub">SUB</string>
+    <string name="Mul">MUL</string>
+    <string name="Div">DIV</string>
+    <string name="Sqr">SQR</string>
+    <string name="Clr">CLEAR</string>
+</resources>
